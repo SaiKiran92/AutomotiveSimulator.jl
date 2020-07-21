@@ -8,9 +8,10 @@ A Julia package containing tools for automotive simulations in 2D.
 
 For visualization code please see [AutomotiveVisualization](https://github.com/sisl/AutomotiveVisualization.jl).
 
-## Installation 
+## Installation
 
-```julia 
+```julia
 using Pkg
 Pkg.add("AutomotiveSimulator")
 ```
+Testing my commit.
