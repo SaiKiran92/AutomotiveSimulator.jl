@@ -14,4 +14,3 @@ For visualization code please see [AutomotiveVisualization](https://github.com/s
 using Pkg
 Pkg.add("AutomotiveSimulator")
 ```
-Testing my commit.
